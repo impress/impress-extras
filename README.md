@@ -2,7 +2,7 @@ Extra (but standard) addons for Impress.js
 ==========================================
 
 This is a collection of JavaScript libraries commonly used in
-[Impress.js](https://github.com/henrikingo/impress.js) presentations. 
+[Impress.js](https://github.com/impress/impress.js) presentations. 
 
 
 More precisely, they are called "Extra addons" in impress.js. They are assumed to be available in
